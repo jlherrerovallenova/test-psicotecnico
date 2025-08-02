@@ -1,0 +1,84 @@
+[
+  {
+    "pregunta": "¿Cuál es el número que sigue en la serie? 3, 6, 12, 24, ...",
+    "opciones": [
+      "36",
+      "42",
+      "48",
+      "50"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué palabra no encaja en el grupo?",
+    "opciones": [
+      "Rojo",
+      "Azul",
+      "Círculo",
+      "Verde"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si hoy es miércoles, ¿qué día será dentro de 10 días?",
+    "opciones": [
+      "Viernes",
+      "Sábado",
+      "Domingo",
+      "Lunes"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Completa la analogía: Pez es a agua como ave es a...",
+    "opciones": [
+      "Nido",
+      "Aire",
+      "Tierra",
+      "Bosque"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Observa la figura y selecciona la opción que la continúa correctamente.",
+    "imagen": "img/figura_ejemplo1.png",
+    "opciones": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué número completa la serie? 1, 4, 9, 16, ...",
+    "opciones": [
+      "20",
+      "25",
+      "30",
+      "36"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Memoriza la siguiente palabra: ELEFANTE. ¿Cuál era la tercera letra?",
+    "opciones": [
+      "L",
+      "E",
+      "F",
+      "A"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Selecciona la figura diferente.",
+    "imagen": "img/figura_ejemplo2.png",
+    "opciones": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correcta": 2
+  }
+]
